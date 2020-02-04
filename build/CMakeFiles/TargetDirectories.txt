@@ -1,0 +1,3 @@
+C:/Data/work/workspace/flatbuffers/build/CMakeFiles/run_tst.dir
+C:/Data/work/workspace/flatbuffers/build/CMakeFiles/edit_cache.dir
+C:/Data/work/workspace/flatbuffers/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+"C:\Data\repositories\flatbuffers\cmake_build\flatc.exe" --cpp -o ./out monster.fbs
